@@ -1,0 +1,8 @@
+C:\Users\TO\source\repos\Tetris_game\Tetris_game\bin\Debug\Tetris_game.exe.config
+C:\Users\TO\source\repos\Tetris_game\Tetris_game\bin\Debug\Tetris_game.exe
+C:\Users\TO\source\repos\Tetris_game\Tetris_game\bin\Debug\Tetris_game.pdb
+C:\Users\TO\source\repos\Tetris_game\Tetris_game\obj\Debug\Tetris_game.csproj.AssemblyReference.cache
+C:\Users\TO\source\repos\Tetris_game\Tetris_game\obj\Debug\Tetris_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\TO\source\repos\Tetris_game\Tetris_game\obj\Debug\Tetris_game.csproj.CoreCompileInputs.cache
+C:\Users\TO\source\repos\Tetris_game\Tetris_game\obj\Debug\Tetris_game.exe
+C:\Users\TO\source\repos\Tetris_game\Tetris_game\obj\Debug\Tetris_game.pdb
